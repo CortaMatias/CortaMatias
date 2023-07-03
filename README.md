@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cortamatias&label=Profile%20views&color=0e75b6&style=flat" alt="cortamatias" /> </p>
 <br>
 
-- 🌱 I’m currently **in second year, studying programming at the Universidad Tecnológica Nacional (UTN).**
+- 🌱 I am currently in my second year, studying programming at the National Technological University (UTN).**
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
