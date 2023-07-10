@@ -17,7 +17,7 @@
 <p align="left">
  📫 matiascorta999@gmail.com
  <br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matias-corta-556323254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-corta-556323254/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matias-corta-556323254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-corta-556323254/" height="30" width="40" /></a>
 </p>
 <br>
 
